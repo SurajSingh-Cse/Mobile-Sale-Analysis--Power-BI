@@ -3,6 +3,10 @@
 This Power BI dashboard provides an analytical overview of mobile phone sales across India. It covers essential business KPIs such as total sales, quantity sold, payment methods, customer feedback, and geographic trends.
 
 ![Dashboard Preview](![Screenshot 2025-06-18 042341](https://github.com/user-attachments/assets/be8bdf3e-74fe-49c1-860b-24bff4f02861)
+![Screenshot 2025-06-18 051132](https://github.com/user-attachments/assets/6f7926f3-32c1-4edd-aabe-8938198cb63c)
+![Screenshot 2025-06-18 051154](https://github.com/user-attachments/assets/48e60b28-a0d1-462c-907a-73472c64890c)
+
+
 )
 
 ##  Key Metrics Displayed:
